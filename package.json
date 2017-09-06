@@ -1,0 +1,22 @@
+{
+  "name": "chalk-adamgoose",
+  "version": "1.0.0",
+  "description": "chalk-adamgoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/chalk-adamgoose.git"
+  },
+  "author": "Adam Engebretson <adam@enge.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/chalk-adamgoose/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/chalk-adamgoose#readme",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
